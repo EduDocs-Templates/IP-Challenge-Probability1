@@ -7,6 +7,8 @@ You can then assess how the empirical results collected in this file compare to 
 
 ### Action Items
 
+* __Modify__: Code in `challenge.ipynb`.
+* __Answer__: Questions in `challenge.ipynb`.
 * __Add__: Updated `challenge.ipynb` to repository.
 * __Add__: `challenge.csv` to repository.
 * __Commit and Push__: These two files to GitHub.
